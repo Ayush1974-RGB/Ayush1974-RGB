@@ -46,9 +46,8 @@ With a strong foundation in both **programming** and **web development**, I love
   <a href="mailto:ayushsinghal0703@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/anotherayush_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  [![🌐 Portfolio](https://img.shields.io/badge/Portfolio-ayush--singhal--1974.netlify.app-blue?style=for-the-badge&logo=netlify)](https://ayush-singhal-1974.netlify.app/)
 </p>
-
+[![🌐 Portfolio](https://img.shields.io/badge/Portfolio-ayush--singhal--1974.netlify.app-blue?style=for-the-badge&logo=netlify)](https://ayush-singhal-1974.netlify.app/)
 
 
 <p align="center">
