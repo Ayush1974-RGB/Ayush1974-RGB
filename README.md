@@ -43,8 +43,7 @@ With a strong foundation in both **programming** and **web development**, I love
 
 ## 📫 Let's Connect
 
-- 📧 Email: [ayushsinghal0703@gmail.com]  
-- 🌐 [Portfolio Website](https://your-portfolio-link.com) *(optional)*
+- 📧 Email: [ayushsinghal0703@gmail.com]
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
