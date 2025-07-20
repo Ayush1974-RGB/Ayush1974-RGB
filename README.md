@@ -48,9 +48,7 @@ With a strong foundation in both **programming** and **web development**, I love
   <a href="https://www.instagram.com/anotherayush_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-## 📫 Let's Connect
 
-- 📧 Email: [ayushsinghal0703@gmail.com]
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
