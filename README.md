@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20I'm%20Ayush%20Singhal!&fontSize=40&fontColor=ffffff" />
+  <img src="https://github.com/Ayush1974-RGB/Ayush1974-RGB/blob/main/banner.png" width="100%" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Ayush Singhal</h1>
 <p align="center">
   🎓CSE B.Tech + M.Tech @ JIIT | Full Stack & AI/ML Learner | Building impactful projects, open-source tools & tech-driven communities
@@ -10,8 +11,11 @@
     <img src="https://img.shields.io/github/followers/Ayush1974-RGB?label=Follow%20Me&style=social" alt="GitHub Followers">
   </a>
 </p>
+
 -----
-### 🧑‍💻 About Me
+
+
+## 🧑‍💻 About Me
 
 - 🎓 Computer Science student
 - 💻 Passionate about programming and technology
@@ -37,10 +41,10 @@
 
 ### Libraries & Frameworks
 <p>
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
@@ -48,7 +52,10 @@
   <img src="https://img.shields.io/badge/Seaborn-2B547E?style=flat"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
 </p>
+
 ---
+
+
 ## 🔗 Connect With Me
 
 <p align="center">
@@ -67,11 +74,17 @@
   <img src="https://img.shields.io/badge/Location-Delhi%20NCR-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
+---
 
+## 🔥 Current Focus
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
-</p>
+- 📚 Strengthening Data Structures & Algorithms  
+- 🌐 Learning Web Development 
+- 🤖 Exploring Machine Learning and TensorFlow  
+- 🛠️ Building real-world projects to improve problem-solving  
+- 🧰 Getting better with Git & GitHub
+
+⭐  Let’s innovate and collaborate together._
 
 
 <!--
