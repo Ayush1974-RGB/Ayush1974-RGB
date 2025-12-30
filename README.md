@@ -1,17 +1,30 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20I'm%20Ayush%20Singhal!&fontSize=40&fontColor=ffffff" />
 </p>
-
+<h1 align="center">Hi 👋, I'm Ayush Singhal</h1>
 <p align="center">
-  🎓 M.Tech CSE Student | 💻 Developer | 📈 Lifelong Learner  
+  🎓CSE B.Tech + M.Tech @ JIIT | Full Stack & AI/ML Learner | Building impactful projects, open-source tools & tech-driven communities
 </p>
 
 ---
-
+<p align="center">
+  <a href="https://github.com/Ayush1974-RGB">
+    <img src="https://img.shields.io/github/followers/Ayush1974-RGB?label=Follow%20Me&style=social" alt="GitHub Followers">
+  </a>
+</p>
+-----
 ## 🧑‍💻 About Me
 
-I’m Ayush Singhal, a passionate and curious developer currently pursuing my **M.Tech in Computer Science**.  
-With a strong foundation in both **programming** and **web development**, I love building meaningful projects and exploring new technologies.
+## 👋 Hi, I'm Ayush!
+
+- 🎓 Computer Science student
+- 💻 Passionate about programming and technology
+- 🌱 Currently learning web development, APIs, and AI/ML
+- 🚀 Love building projects and exploring new tools
+- 📫 Reach me via GitHub or comments on my projects
+
+⭐ Check out my repositories below!
+
 
 ---
 
