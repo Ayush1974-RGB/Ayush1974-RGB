@@ -76,9 +76,7 @@
 <h3 align="center">Predicts</h3>
 
 <p align="center">
-  <a href="https://github.com/Ayush1974-RGB/Predicts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush1974-RGB&repo=Predicts&theme=tokyonight&hide_border=true" alt="Predicts repository card" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,45:312E81,100:0891B2&height=120&section=header&text=Predicts&fontSize=38&fontColor=FFFFFF&desc=AI%2FML%20prediction%20project%20built%20with%20data%20workflows%20and%20model%20experiments&descSize=15&descAlignY=72&animation=fadeIn" width="100%" alt="Predicts featured project banner" />
 </p>
 
 <p align="center">
@@ -91,11 +89,13 @@
   <b>Predicts</b> is my featured prediction-focused project, built around practical data workflows, model experimentation, and clean project presentation.
 </p>
 
-<p align="center">
-  <a href="https://github.com/Ayush1974-RGB/Predicts">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Predicts on GitHub" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>Data</b><br />Prepare, clean, and explore datasets</td>
+    <td align="center"><b>Model</b><br />Train and compare prediction logic</td>
+    <td align="center"><b>Result</b><br />Present useful outputs clearly</td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&center=true&vCenter=true&width=700&lines=Featured+build%3A+Predicts.;Experimenting+with+data+and+models.;Turning+ideas+into+working+prediction+tools." alt="Animated featured project text" />
@@ -106,12 +106,14 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayush1974-RGB&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ayush's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush1974-RGB&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img src="https://img.shields.io/github/followers/Ayush1974-RGB?style=for-the-badge&logo=github&label=Followers&color=0EA5E9" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Ayush1974-RGB?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=F59E0B" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=Ayush1974-RGB&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayush1974-RGB&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayush1974-RGB&theme=tokyonight" alt="GitHub stats summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayush1974-RGB&theme=tokyonight&utcOffset=5.5" alt="Most productive time" />
 </p>
 
 <p align="center">
